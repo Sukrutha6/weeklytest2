@@ -1,0 +1,14 @@
+/Users/sukruthapochammala/weeklytest2/bin/Debug/net10.0/weeklytest2
+/Users/sukruthapochammala/weeklytest2/bin/Debug/net10.0/weeklytest2.deps.json
+/Users/sukruthapochammala/weeklytest2/bin/Debug/net10.0/weeklytest2.runtimeconfig.json
+/Users/sukruthapochammala/weeklytest2/bin/Debug/net10.0/weeklytest2.dll
+/Users/sukruthapochammala/weeklytest2/bin/Debug/net10.0/weeklytest2.pdb
+/Users/sukruthapochammala/weeklytest2/obj/Debug/net10.0/weeklytest2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/weeklytest2/obj/Debug/net10.0/weeklytest2.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/weeklytest2/obj/Debug/net10.0/weeklytest2.AssemblyInfo.cs
+/Users/sukruthapochammala/weeklytest2/obj/Debug/net10.0/weeklytest2.csproj.CoreCompileInputs.cache
+/Users/sukruthapochammala/weeklytest2/obj/Debug/net10.0/weeklytest2.dll
+/Users/sukruthapochammala/weeklytest2/obj/Debug/net10.0/refint/weeklytest2.dll
+/Users/sukruthapochammala/weeklytest2/obj/Debug/net10.0/weeklytest2.pdb
+/Users/sukruthapochammala/weeklytest2/obj/Debug/net10.0/weeklytest2.genruntimeconfig.cache
+/Users/sukruthapochammala/weeklytest2/obj/Debug/net10.0/ref/weeklytest2.dll
